@@ -1,0 +1,41 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
+
+# Dependency directories (vendor folder)
+vendor/
+
+# Go build artifacts
+*.out
+
+# Go modules
+go.sum
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Test binary files
+audit_test
+
+# Exclude compiled binaries or executables (e.g., AuditEventsModule.exe)
+AuditEventsModule.exe
+
+# Ignore any other build artifacts or temporary files in the future
+bin/
+dist/
