@@ -1,3 +1,6 @@
+# Ignore the .gitignore file itself
+.gitignore
+
 # Binaries for programs and plugins
 *.exe
 *.dll
